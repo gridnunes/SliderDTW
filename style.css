@@ -261,35 +261,35 @@ header a {
 }
 
 .footer {
-    background-color: #000; /* Cor de fundo do footer */
-    color: white; /* Cor do texto */
-    padding: 10px; /* Reduzido para um espaçamento interno menor */
-    text-align: center; /* Centraliza o texto */
-    position: relative; /* Para que o footer fique no final da página */
-    bottom: 0; /* Alinha ao fundo da página */
-    width: 100%; /* Largura total */
+    background-color: #000; 
+    color: white; 
+    padding: 10px; 
+    text-align: center; 
+    position: relative; 
+    bottom: 0; 
+    width: 100%; 
 }
 
 .footer-content {
-    max-width: 1200px; /* Largura máxima do conteúdo */
-    margin: 0 auto; /* Centraliza o conteúdo */
+    max-width: 1200px;
+    margin: 0 auto; 
 }
 
 .footer p {
-    margin: 0; /* Remove margens do parágrafo */
+    margin: 0;
 }
 
 .social-links {
-    margin-top: 5px; /* Espaço reduzido entre o texto e os links */
+    margin-top: 5px;
 }
 
 .social-links a {
-    color: white; /* Cor dos links */
-    text-decoration: none; /* Remove o sublinhado */
-    margin: 0 8px; /* Espaçamento horizontal entre os links reduzido */
+    color: white;
+    text-decoration: none;
+    margin: 0 8px; 
 }
 
 .social-links a:hover {
-    text-decoration: underline; /* Sublinha ao passar o mouse */
+    text-decoration: underline;
 }
 
